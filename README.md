@@ -183,9 +183,6 @@ investment-fraud-detection/
 - Built using scikit-learn and scikit-multilearn libraries
 - NLTK for text preprocessing
 
-## Contact
-
-For questions or collaboration opportunities, please open an issue or contact [your-email@example.com]
 
 ---
 
