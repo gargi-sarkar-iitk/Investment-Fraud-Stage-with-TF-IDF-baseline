@@ -1,0 +1,21 @@
+Feature,Mean_SHAP,Mean_|SHAP|,Feature_Type
+domain:withdrawal_terms,-0.26349202,0.26349202,domain
+char:pay,-0.17949148,0.17949148,char
+char: de,-0.1253937,0.1253937,char
+char:ore,-0.11192883,0.11192883,char
+word:realized,-0.07024338,0.07024338,word
+domain:telegram_count,-0.06092708,0.06092708,domain
+char:ed m,-0.05858508,0.05858508,char
+word:kept asking,-0.05551,0.05551,word
+char:aw ,-0.054434992,0.054434992,char
+sbert_dim_91,-0.051969152,0.051969152,other
+char:ded ,-0.051606983,0.051606983,char
+word:total,-0.0462006,0.0462006,word
+char: pa,-0.04605615,0.04605615,char
+domain:temporal_continuation,-0.045582354,0.045582354,domain
+char:ed ,-0.041094515,0.041094515,char
+word:lakhs,-0.039381757,0.039381757,word
+domain:whatsapp_count,-0.03738219,0.03738219,domain
+word:took,-0.03662423,0.03662423,word
+word:multiple times,-0.03544956,0.03544956,word
+word:invested,-0.032930743,0.032930743,word
